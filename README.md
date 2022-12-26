@@ -1,4 +1,4 @@
-## The code of our work
+## The code of MinEnt: Minimum Entropy for Self-Supervised Representation Learning
 
 
 ## Abstract
